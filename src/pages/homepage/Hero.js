@@ -99,7 +99,7 @@ function Hero() {
         <div className="container">
           <div className="row">
             <div className="col overflow-hidden">
-              <HomeCrousel media={media} />
+              {/* <HomeCrousel media={media} /> */}
             </div>
           </div>
         </div>
